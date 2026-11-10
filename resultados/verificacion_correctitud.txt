@@ -1,0 +1,13 @@
+Datos: n=50001, d=8, k=7; referencia: secuencial (113 iteraciones, tol=1e-6)
+[OK ] memoria compartida, 1 hilos  max|dC|=0.00e+00  etiquetas distintas=0  dInercia_rel=0.00e+00  iter=113
+[OK ] memoria compartida, 2 hilos  max|dC|=5.15e-14  etiquetas distintas=0  dInercia_rel=9.92e-15  iter=113
+[OK ] memoria compartida, 3 hilos  max|dC|=3.91e-14  etiquetas distintas=0  dInercia_rel=5.95e-15  iter=113
+[OK ] memoria compartida, 4 hilos  max|dC|=3.29e-14  etiquetas distintas=0  dInercia_rel=5.95e-15  iter=113
+[OK ] memoria compartida, 8 hilos  max|dC|=2.31e-14  etiquetas distintas=0  dInercia_rel=7.04e-15  iter=113
+[OK ] memoria distribuida, 1 procs max|dC|=0.00e+00  etiquetas distintas=0  dInercia_rel=0.00e+00  iter=113
+[OK ] memoria distribuida, 2 procs max|dC|=5.15e-14  etiquetas distintas=0  dInercia_rel=9.92e-15  iter=113
+[OK ] memoria distribuida, 3 procs max|dC|=3.91e-14  etiquetas distintas=0  dInercia_rel=5.95e-15  iter=113
+[OK ] memoria distribuida, 4 procs max|dC|=3.29e-14  etiquetas distintas=0  dInercia_rel=5.95e-15  iter=113
+[OK ] memoria distribuida, 7 procs max|dC|=2.58e-14  etiquetas distintas=0  dInercia_rel=7.40e-15  iter=113
+[OK ] secuencial vs scikit-learn (15 iter fijas): inercia 5162511.656164 vs 5162511.656164
+RESULTADO GLOBAL: CORRECTO

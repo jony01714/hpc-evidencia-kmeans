@@ -1,0 +1,21 @@
+{
+  "sistema": "Linux-6.14.0-37-generic-x86_64-with-glibc2.41",
+  "python": "3.13.3",
+  "nucleos_logicos": 8,
+  "cpu_modelo": "11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz",
+  "hilos_por_nucleo": "2",
+  "nucleos_por_socket": "4",
+  "sockets": "1",
+  "cache_L3": "8 MiB (1 instance)",
+  "frecuencia_max_mhz": "4200.0000",
+  "ram_gb": 10.9,
+  "gpu": "Intel Corporation TigerLake-LP GT2 [Iris Xe Graphics] (rev 01)",
+  "versiones": {
+    "numpy": "2.5.4",
+    "numba": "0.68.1",
+    "mpi4py": "4.1.2",
+    "matplotlib": "3.11.2",
+    "sklearn": "1.9.1"
+  },
+  "mpi": "MPICH 4.2.1 (Hydra, Version: 4.2.1)"
+}

@@ -1,0 +1,5 @@
+numpy>=1.26
+numba>=0.60
+mpi4py>=3.1
+matplotlib>=3.8
+scikit-learn>=1.4   # solo para la verificacion independiente de correctitud
